@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EMPLEADOS>
+	<EMPLEADO>
+		<idempleado>1</idempleado>
+		<strnombre>John Doe</strnombre>
+		<numdocumento>123456789</numdocumento>
+		<strdireccion>Main Street 123</strdireccion>
+		<strtelefono>555-1234</strtelefono>
+		<stremail>johndoe@example.com</stremail>
+		<dtmingreso>2022-01-01</dtmingreso>
+	</EMPLEADO>
+	<EMPLEADO>
+		<idempleado>2</idempleado>
+		<strnombre>Jane Smith</strnombre>
+		<numdocumento>987654321</numdocumento>
+		<strdireccion>Second Street 456</strdireccion>
+		<strtelefono>555-5678</strtelefono>
+		<stremail>janesmith@example.com</stremail>
+		<dtmingreso>2021-05-15</dtmingreso>
+	</EMPLEADO>
+	<EMPLEADO>
+		<idempleado>3</idempleado>
+		<strnombre>Bob Johnson</strnombre>
+		<numdocumento>456789123</numdocumento>
+		<strdireccion>Third Street 789</strdireccion>
+		<strtelefono>555-9012</strtelefono>
+		<stremail>bjohnson@example.com</stremail>
+		<dtmingreso>2020-10-01</dtmingreso>
+	</EMPLEADO>
+	<EMPLEADO>
+		<idempleado>4</idempleado>
+		<strnombre>Alice Lee</strnombre>
+		<numdocumento>369258147</numdocumento>
+		<strdireccion>Fourth Street 321</strdireccion>
+		<strtelefono>555-3456</strtelefono>
+		<stremail>alee@example.com</stremail>
+		<dtmingreso>2021-08-01</dtmingreso>
+	</EMPLEADO>
+	<EMPLEADO>
+		<idempleado>5</idempleado>
+		<strnombre>Mike Brown</strnombre>
+		<numdocumento>741852963</numdocumento>
+		<strdireccion>Fifth Street 987</strdireccion>
+		<strtelefono>555-7890</strtelefono>
+		<stremail>mbrown@example.com</stremail>
+		<dtmingreso>2019-06-01</dtmingreso>
+	</EMPLEADO>
+	<EMPLEADO>
+		<idempleado>6</idempleado>
+		<strnombre>Emily Black</strnombre>
+		<numdocumento>147258369</numdocumento>
+		<strdireccion>Sixth Avenue 246</strdireccion>
+		<strtelefono>555-2468</strtelefono>
+		<stremail>eblack@example.com</stremail>
+		<dtmingreso>2023-04-01</dtmingreso>
+	</EMPLEADO>
+	<EMPLEADO>
+		<idempleado>7</idempleado>
+		<strnombre>Juan Perez</strnombre>
+		<numdocumento>1234567890</numdocumento>
+		<strdireccion>Calle 123, Ciudad</strdireccion>
+		<strtelefono>555-1234</strtelefono>
+		<stremail>juan.perez@email.com</stremail>
+		<dtmingreso>2022-01-01</dtmingreso>
+	</EMPLEADO>
+	<EMPLEADO>
+		<idempleado>8</idempleado>
+		<strnombre>Maria Rodriguez</strnombre>
+		<numdocumento>2345678901</numdocumento>
+		<strdireccion>Calle 456, Ciudad</strdireccion>
+		<strtelefono>555-5678</strtelefono>
+		<stremail>maria.rodriguez@email.com</stremail>
+		<dtmingreso>2022-02-01</dtmingreso>
+	</EMPLEADO>
+	<EMPLEADO>
+		<idempleado>9</idempleado>
+		<strnombre>Carlos Hernandez</strnombre>
+		<numdocumento>3456789012</numdocumento>
+		<strdireccion>Calle 789, Ciudad</strdireccion>
+		<strtelefono>555-9012</strtelefono>
+		<stremail>carlos.hernandez@email.com</stremail>
+		<dtmingreso>2022-03-01</dtmingreso>
+	</EMPLEADO>
+	<EMPLEADO>
+		<idempleado>10</idempleado>
+		<strnombre>Carlos Hernandez</strnombre>
+		<numdocumento>3456789012</numdocumento>
+		<strdireccion>Calle 789, Ciudad</strdireccion>
+		<strtelefono>555-9012</strtelefono>
+		<stremail>carlos.hernandez@email.com</stremail>
+		<dtmingreso>2022-03-01</dtmingreso>
+	</EMPLEADO>
+	<EMPLEADO>
+		<idempleado>11</idempleado>
+		<strnombre>Sofia Lopez</strnombre>
+		<numdocumento>4567890123</numdocumento>
+		<strdireccion>Calle 012, Ciudad</strdireccion>
+		<strtelefono>555-3456</strtelefono>
+		<stremail>sofia.lopez@email.com</stremail>
+		<dtmingreso>2022-04-01</dtmingreso>
+	</EMPLEADO>
+	<EMPLEADO>
+		<idempleado>12</idempleado>
+		<strnombre>Pablo Ramirez</strnombre>
+		<numdocumento>5678901234</numdocumento>
+		<strdireccion>Calle 345, Ciudad</strdireccion>
+		<strtelefono>555-6789</strtelefono>
+		<stremail>pablo.ramirez@email.com</stremail>
+		<dtmingreso>2022-05-01</dtmingreso>
+	</EMPLEADO>
+
+</EMPLEADOS>
+
+

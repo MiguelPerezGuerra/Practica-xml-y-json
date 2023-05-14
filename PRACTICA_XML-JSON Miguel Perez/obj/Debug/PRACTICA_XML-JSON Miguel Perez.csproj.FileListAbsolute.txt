@@ -1,0 +1,28 @@
+C:\Users\Miguel Pérez\source\repos\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\bin\Debug\PRACTICA_XML-JSON Miguel Perez.exe.config
+C:\Users\Miguel Pérez\source\repos\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\bin\Debug\PRACTICA_XML-JSON Miguel Perez.exe
+C:\Users\Miguel Pérez\source\repos\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\bin\Debug\PRACTICA_XML-JSON Miguel Perez.pdb
+C:\Users\Miguel Pérez\source\repos\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML-JSON Miguel Perez.csproj.AssemblyReference.cache
+C:\Users\Miguel Pérez\source\repos\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML-JSON Miguel Perez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel Pérez\source\repos\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML_JSON_Miguel_Perez.Form1.resources
+C:\Users\Miguel Pérez\source\repos\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML_JSON_Miguel_Perez.Properties.Resources.resources
+C:\Users\Miguel Pérez\source\repos\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML-JSON Miguel Perez.csproj.GenerateResource.cache
+C:\Users\Miguel Pérez\source\repos\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML-JSON Miguel Perez.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Pérez\source\repos\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML-JSON Miguel Perez.exe
+C:\Users\Miguel Pérez\source\repos\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML-JSON Miguel Perez.pdb
+C:\Users\Miguel Pérez\source\repos\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Miguel Pérez\source\repos\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Miguel Pérez\source\repos\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML-JSON Miguel Perez.csproj.CopyComplete
+C:\Users\Miguel Pérez\Downloads\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\bin\Debug\PRACTICA_XML-JSON Miguel Perez.exe.config
+C:\Users\Miguel Pérez\Downloads\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\bin\Debug\PRACTICA_XML-JSON Miguel Perez.exe
+C:\Users\Miguel Pérez\Downloads\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\bin\Debug\PRACTICA_XML-JSON Miguel Perez.pdb
+C:\Users\Miguel Pérez\Downloads\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Miguel Pérez\Downloads\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Miguel Pérez\Downloads\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML-JSON Miguel Perez.csproj.AssemblyReference.cache
+C:\Users\Miguel Pérez\Downloads\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML-JSON Miguel Perez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel Pérez\Downloads\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML_JSON_Miguel_Perez.Form1.resources
+C:\Users\Miguel Pérez\Downloads\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML_JSON_Miguel_Perez.Properties.Resources.resources
+C:\Users\Miguel Pérez\Downloads\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML-JSON Miguel Perez.csproj.GenerateResource.cache
+C:\Users\Miguel Pérez\Downloads\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML-JSON Miguel Perez.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Pérez\Downloads\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML-JSON Miguel Perez.csproj.CopyComplete
+C:\Users\Miguel Pérez\Downloads\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML-JSON Miguel Perez.exe
+C:\Users\Miguel Pérez\Downloads\PRACTICA_XML-JSON Miguel Perez\PRACTICA_XML-JSON Miguel Perez\obj\Debug\PRACTICA_XML-JSON Miguel Perez.pdb

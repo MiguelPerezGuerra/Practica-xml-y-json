@@ -1,0 +1,87 @@
+﻿{
+
+    "EMPLEADOS": [
+      {
+        "idempleado": "1",
+        "strnombre": "John Doe",
+        "numdocumento": "123456789",
+        "strdireccion": "Main Street 123",
+        "strtelefono": "555-1234",
+        "stremail": "johndoe@example.com",
+        "dtmingreso": "2022-01-01"
+      },
+      {
+        "idempleado": "2",
+        "strnombre": "Jane Smith",
+        "numdocumento": "987654321",
+        "strdireccion": "Second Street 456",
+        "strtelefono": "555-5678",
+        "stremail": "janesmith@example.com",
+        "dtmingreso": "2021-05-15"
+      },
+      {
+        "idempleado": "3",
+        "strnombre": "Bob Johnson",
+        "numdocumento": "456789123",
+        "strdireccion": "Third Street 789",
+        "strtelefono": "555-9012",
+        "stremail": "bjohnson@example.com",
+        "dtmingreso": "2020-10-01"
+      },
+      {
+        "idempleado": "4",
+        "strnombre": "Alice Lee",
+        "numdocumento": "369258147",
+        "strdireccion": "Fourth Street 321",
+        "strtelefono": "555-3456",
+        "stremail": "alee@example.com",
+        "dtmingreso": "2021-08-01"
+      },
+      {
+        "idempleado": "5",
+        "strnombre": "Mike Brown",
+        "numdocumento": "741852963",
+        "strdireccion": "Fifth Street 987",
+        "strtelefono": "555-7890",
+        "stremail": "mbrown@example.com",
+        "dtmingreso": "2019-06-01"
+      },
+      {
+        "idempleado": "6",
+        "strnombre": "Emily Black",
+        "numdocumento": "147258369",
+        "strdireccion": "Sixth Avenue 246",
+        "strtelefono": "555-2468",
+        "stremail": "eblack@example.com",
+        "dtmingreso": "2023-04-01"
+      },
+      {
+        "idempleado": "7",
+        "strnombre": "Juan Perez",
+        "numdocumento": "1234567890",
+        "strdireccion": "Calle 123, Ciudad",
+        "strtelefono": "555-1234",
+        "stremail": "juan.perez@email.com",
+        "dtmingreso": "2022-01-01"
+      },
+      {
+        "idempleado": "8",
+        "strnombre": "Maria Rodriguez",
+        "numdocumento": "2345678901",
+        "strdireccion": "Calle 456, Ciudad",
+        "strtelefono": "555-5678",
+        "stremail": "maria.rodriguez@email.com",
+        "dtmingreso": "2022-02-01"
+      },
+      {
+        "idempleado": "9",
+        "strnombre": "Carlos Hernandez",
+        "numdocumento": "3456789012",
+        "strdireccion": "Calle 789, Ciudad",
+        "strtelefono": "555-9012",
+        "stremail": "carlos.hernandez@email",
+        "dtmingreso": "2022-02-01"
+      }
+    ]
+  
+}
